@@ -33,5 +33,5 @@
 
 **/cmake-build-debug/
 *.vscode/*
-**.vs/
+*.vs/
 *x64/
